@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="50" width="250" src="https://www.celio.com/on/demandware.static/-/Library-Sites-celio-shared-library/default/v15fade860e2e234a307ea02c45b8dbd2e0eabe82/images/content/licences/Naruto/Pedito-Naruto-Konoha.png"  />
+  <img height="50" width="150" src="https://www.celio.com/on/demandware.static/-/Library-Sites-celio-shared-library/default/v15fade860e2e234a307ea02c45b8dbd2e0eabe82/images/content/licences/Naruto/Pedito-Naruto-Konoha.png"  />
 </div>
 
 
